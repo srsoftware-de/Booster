@@ -2,7 +2,7 @@
 
 Diese Lizenz basiert auf der Lizenz „[Namensnennung - Weitergabe unter gleichen Bedingungen 3.0 Deutschland][cc-by-sa-3.0]“ der Organisation „[Creative Commons][cc]“, ist aber *nicht identisch* mit dieser.
 
-DER GEGENSTAND DIESER LIZENZ (WIE UNTER „SCHUTZGEGENSTAND“ UND „IMPLEMENTIERUNG“ DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER LIZENZ ("LIZENZ" ODER "LIZENZVERTRAG")
+DER GEGENSTAND DIESER LIZENZ (WIE UNTER „SCHUTZGEGENSTAND“ UND „IMPLEMENTIERUNG“ DEFINIERT) WIRD UNTER DEN BEDINGUNGEN DIESER LIZENZ („LIZENZ“ ODER „LIZENZVERTRAG“)
 ZUR VERFÜGUNG GESTELLT.
 DER SCHUTZGEGENSTAND IST DURCH DAS URHEBERRECHT UND/ODER ANDERE GESETZE GESCHÜTZT.
 JEDE FORM DER NUTZUNG DES SCHUTZGEGENSTANDES, DIE NICHT AUFGRUND DIESER LIZENZ ODER DURCH GESETZE GESTATTET IST, IST UNZULÄSSIG.
@@ -16,14 +16,14 @@ DASS SIE DAS GEBUNDENSEIN AN DIE LIZENZBEDINGUNGEN AKZEPTIEREN.
 
 ### 1. Definition
 
-1. Der Begriff „**Schutzgegenstand**“ bezeichnet in dieser Lizenz zum einen  
-    1. den Schaltplan der als Modeelbahn-Boster entworfenen Schaltung
+1. Der Begriff „**Schutzgegenstand**“ bezeichnet in dieser Lizenz  
+    1. den Schaltplan der als Modellbahn-Booster entworfenen Schaltung
     2. das zugehörige Platinen-Layout der Schaltung
 
     Schaltplan und Layout der Schaltung sind dabei insbesondere unabhängig von der Art ihrer Fixierung und unabhängig davon, auf welche Weise jeweils eine Wahrnehmung erfolgen kann, gleichviel ob in analoger oder digitaler Form.
-Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff "Schutzgegenstand" im Sinne dieser Lizenz.
+Soweit Datenbanken oder Zusammenstellungen von Daten einen immaterialgüterrechtlichen Schutz eigener Art genießen, unterfallen auch sie dem Begriff „Schutzgegenstand“ im Sinne dieser Lizenz.
 
-2. „**Implementation**“ im Sinne dieser Lizenz bezeichnet zum einen den Vorgang der Fertigung des Schutzgegenstandes als Hardware – unabhägig davon ob die Fertigung auf dem Platinenlayout oder lediglich auf dem Schaltplan basiert. Dazu zählt insbesondere das maschinelle und händische Fertigen und Bestücken von Leiterplatten oder der Aufbau der Schaltung in freier Verdrahtung.
+2. „**Implementation**“ im Sinne dieser Lizenz bezeichnet zum einen den Vorgang der Fertigung des Schutzgegenstandes als Hardware, unabhägig davon, ob die Fertigung auf dem Platinenlayout oder lediglich auf dem Schaltplan basiert. Dazu zählt insbesondere das maschinelle und händische Fertigen und Bestücken von Leiterplatten oder der Aufbau der Schaltung in freier Verdrahtung.
 Zum anderen bezeichnet „**Implementation**“ das Produkt dieser Fertigung, also eine aufgebaute Schaltung entsprechend dem Schaltplan des Schutzgegenstandes.
 
 3. Der Begriff „**Abwandlung**“ im Sinne dieser Lizenz bezeichnet das Ergebnis jeglicher Art von Veränderung des Schutzgegenstandes, solange die eigenpersönlichen Züge des Schutzgegenstandes darin nicht verblassen
@@ -67,15 +67,15 @@ das vergütungsfreie, räumlich und zeitlich (für die Dauer des Schutzrechts am
 Soweit unverzichtbare Vergütungsansprüche im Gegenzug für gesetzliche Lizenzen vorgesehen oder Pauschalabgabensysteme (zum Beispiel für Leermedien) vorhanden sind, behält sich der Lizenzgeber das ausschließliche Recht vor, die entsprechende Vergütung einzuziehen für jede Ausübung eines Rechts aus dieser Lizenz durch Sie.
 
     2. **Vergütung bei Zwangslizenzen**:
-Sofern Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, verzichtet der Lizenzgeber für alle Fälle einer lizenzgerechten Nutzung des Schutzgegenstandes durch Sie auf jegliche Vergütung
+Sofern Zwangslizenzen außerhalb dieser Lizenz vorgesehen sind und zustande kommen, verzichtet der Lizenzgeber für alle Fälle einer lizenzgerechten Nutzung des Schutzgegenstandes durch Sie auf jegliche Vergütung.
 
     3. **Vergütung in sonstigen Fällen**:
 Bezüglich lizenzgerechter Nutzung des Schutzgegenstandes durch Sie,
-die nicht unter die beiden vorherigen Abschnitte 3.1.1 und 3.1.2 fällt,
+die nicht unter die beiden vorherigen Abschnitte 3.5.1 und 3.5.2 fällt,
 verzichtet der Lizenzgeber auf jegliche Vergütung, unabhängig davon,
 ob eine Einziehung der Vergütung durch ihn selbst oder nur durch eine Verwertungsgesellschaft möglich wäre.
 
-    Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten _exklusive der Implementation_ eingeräumt. Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten.
+    Das vorgenannte Nutzungsrecht wird für alle bekannten sowie für alle noch nicht bekannten Nutzungsarten __exklusive der Implementation__ eingeräumt. Es beinhaltet auch das Recht, solche Änderungen am Schutzgegenstand vorzunehmen, die für bestimmte nach dieser Lizenz zulässige Nutzungen technisch erforderlich sind. Alle sonstigen Rechte, die über diesen Abschnitt hinaus nicht ausdrücklich durch den Lizenzgeber eingeräumt werden, bleiben diesem allein vorbehalten.
 Soweit Datenbanken oder Zusammenstellungen von Daten Schutzgegenstand dieser Lizenz oder Teil dessen sind
 und einen immaterialgüterrechtlichen Schutz eigener Art genießen,
 verzichtet der Lizenzgeber auf sämtliche aus diesem Schutz resultierenden Rechte.
@@ -92,10 +92,10 @@ Wenn Sie eine Abwandlung vornehmen, müssen Sie auf die Mitteilung eines Lizenzg
 
 2. Sie dürfen eine Abwandlung ausschließlich unter den Bedingungen
     * dieser Lizenz,
-    * einer späteren Version dieser Lizenz mit denselben Lizenzelementen,
+    * oder einer späteren Version dieser Lizenz mit denselben Lizenzelementen
  verbreiten oder öffentlich zeigen.
 
-    Falls Sie die Abwandlungen unter einer der vorgenannten Lizenzen ("Verwendbare Lizenzen") lizenzieren, müssen Sie deren Lizenzbestimmungen sowie folgenden Bestimmungen Folge leisten:
+    Falls Sie die Abwandlungen unter einer der vorgenannten Lizenzen („Verwendbare Lizenzen“) lizenzieren, müssen Sie deren Lizenzbestimmungen sowie folgenden Bestimmungen Folge leisten:
 
     * Sie müssen stets eine Kopie der verwendbaren Lizenz oder deren vollständige Internetadresse in Form des Uniform-Resource-Identifier (URI) beifügen,
 wenn Sie die Abwandlung verbreiten oder öffentlich zeigen.
@@ -114,9 +114,9 @@ indem Sie – soweit bekannt – Folgendes angeben:
 
     * Den Namen (oder das Pseudonym, falls ein solches verwendet wird) des Rechteinhabers und/oder,
 falls der Lizenzgeber im Rechtevermerk, in den Nutzungsbedingungen oder auf andere angemessene Weise eine Zuschreibung an Dritte vorgenommen hat
-(z.B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) („Zuschreibungsempfänger“), Namen bzw. Bezeichnung dieses oder dieser Dritten;
+(z. B. an eine Stiftung, ein Verlagshaus oder eine Zeitung) („Zuschreibungsempfänger“), Namen bzw. Bezeichnung dieses oder dieser Dritten;
     * den Titel des Inhaltes;
-    * in einer praktikablen Form den Uniform-Resource-Identifier (URI, z.B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand;
+    * in einer praktikablen Form den Uniform-Resource-Identifier (URI, z. B. Internetadresse), den der Lizenzgeber zum Schutzgegenstand angegeben hat, es sei denn, dieser URI verweist nicht auf den Rechtevermerk oder die Lizenzinformationen zum Schutzgegenstand;
     * und im Falle einer Abwandlung des Schutzgegenstandes in Übereinstimmung mit Abschnitt 3.2 einen Hinweis darauf, dass es sich um eine Abwandlung handelt.
 
     Die nach diesem Abschnitt 4.3 erforderlichen Angaben können in jeder angemessenen Form gemacht werden; im Falle einer Abwandlung des Schutzgegenstandes oder eines Sammelwerkes müssen diese Angaben das Minimum darstellen und bei gemeinsamer Nennung mehrerer Rechteinhaber dergestalt erfolgen, dass sie zumindest ebenso hervorgehoben sind wie die Hinweise auf die übrigen Rechteinhaber.
@@ -130,21 +130,21 @@ weder explizit noch implizit irgendeine Verbindung zum Lizenzgeber oder Zuschrei
 
 ## 5. Bedingungen und Entgelt für die Implementation
 
-1. Der Lizenzgeber gestattet Ihnen, den Schutzgegenstand in beliebigen Stückzahlen zum Implementieren.
-2. Der Lizenzgeber gestattet es Implementationen des Schutzgegenstandes zu Vervielfäligen.
-3. Für jede Implementation des Schutzgegenstandes oder Kopie einer Implementation ist einmalig einmalig das folgend genannte Entgelt an den Rechteinhaber zu entrichten. 
+1. Der Lizenzgeber gestattet Ihnen, den Schutzgegenstand in beliebigen Stückzahlen zu implementieren.
+2. Der Lizenzgeber gestattet es, Implementationen des Schutzgegenstandes zu vervielfäligen.
+3. Für jede Implementation des Schutzgegenstandes oder Kopie einer Implementation ist einmalig das folgend genannte Entgelt an den Rechteinhaber zu entrichten. 
 4. Für die kommerzielle oder nicht-kommerzielle Weitergabe der Implementation ist darüber hinaus kein weiteres Entgelt an den Rechteihaber fällig.
-5. Das Entgelt für die Implementation in Verbindung mit dieser Lizenz beträgt 2 €. Der Rechteinhaber behält sich vor, das Entgelt für die Implementation des Schutzgegenstandes mit zukünftigen Versionen des Schutzgegenstandes und/oder dieser Lizenz anzupassen; bereits entrichtete Entgelte bleiben davon unberührt.
+5. Das Entgelt für die Implementation in Verbindung mit dieser Lizenz beträgt 2 Euro. Der Rechteinhaber behält sich vor, das Entgelt für die Implementation des Schutzgegenstandes mit zukünftigen Versionen des Schutzgegenstandes und/oder dieser Lizenz anzupassen; bereits entrichtete Entgelte bleiben davon unberührt.
 
 ## 6. Gewährleistung
 
-SOFERN KEINE ANDERS LAUTENDE, SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE
+SOFERN KEINE ANDERS LAUTENDE SCHRIFTLICHE VEREINBARUNG ZWISCHEN DEM LIZENZGEBER UND IHNEN GESCHLOSSEN WURDE
 UND SOWEIT MÄNGEL NICHT ARGLISTIG VERSCHWIEGEN WURDEN, BIETET DER LIZENZGEBER DEN SCHUTZGEGENSTAND, DESSEN IMPLEMENTATION UND DIE EINRÄUMUNG VON RECHTEN UNTER AUSSCHLUSS JEGLICHER GEWÄHRLEISTUNG AN
 UND ÜBERNIMMT WEDER AUSDRÜCKLICH NOCH KONKLUDENT GARANTIEN IRGENDEINER ART.
 DIES UMFASST INSBESONDERE DAS FREISEIN VON SACH- UND RECHTSMÄNGELN,
 UNABHÄNGIG VON DEREN ERKENNBARKEIT FÜR DEN LIZENZGEBER, DIE VERKEHRSFÄHIGKEIT DES SCHUTZGEGENSTANDES ODER DER IMPLEMENTATION,
 SEINE VERWENDBARKEIT FÜR EINEN BESTIMMTEN ZWECK SOWIE DIE KORREKTHEIT VON BESCHREIBUNGEN.
-DIESE GEWÄHRLEISTUNGSBESCHRÄNKUNG GILT NICHT, SOWEIT MÄNGEL ZU SCHÄDEN DER IN ABSCHNITT 6 BEZEICHNETEN ART FÜHREN
+DIESE GEWÄHRLEISTUNGSBESCHRÄNKUNG GILT NICHT, SOWEIT MÄNGEL ZU SCHÄDEN DER IN ABSCHNITT 7 BEZEICHNETEN ART FÜHREN
 UND AUF SEITEN DES LIZENZGEBERS DAS JEWEILS GENANNTE VERSCHULDEN BZW. VERTRETENMÜSSEN EBENFALLS VORLIEGT.
 
 ## 7. Haftungsbeschränkung
@@ -157,7 +157,7 @@ UND ÜBERNIMMT DARÜBER HINAUS KEINERLEI FREIWILLIGE HAFTUNG.
 ## 8. Erlöschen
 
 1. Diese Lizenz und die durch sie eingeräumten Nutzungsrechte erlöschen mit Wirkung für die Zukunft im Falle eines Verstoßes gegen die Lizenzbedingungen durch Sie, ohne dass es dazu der Kenntnis des Lizenzgebers vom Verstoß oder einer weiteren Handlung einer der Vertragsparteien bedarf.
-Mit natürlichen oder juristischen Personen, die Abwandlungen des Schutzgegenstandes oder diesen enthaltende Sammelwerke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2, 5, 6, 7, und 8 auch nach einem Erlöschen dieser Lizenz fort.
+Mit natürlichen oder juristischen Personen, die Abwandlungen des Schutzgegenstandes oder diesen enthaltende Sammelwerke unter den Bedingungen dieser Lizenz von Ihnen erhalten haben, bestehen nachträglich entstandene Lizenzbeziehungen jedoch solange weiter, wie die genannten Personen sich ihrerseits an sämtliche Lizenzbedingungen halten. Darüber hinaus gelten die Ziffern 1, 2 sowie 5 bis 9 auch nach einem Erlöschen dieser Lizenz fort.
 
 2. Vorbehaltlich der oben genannten Bedingungen gilt diese Lizenz unbefristet bis der rechtliche Schutz für den Schutzgegenstand und seine Implementation ausläuft.
 Davon abgesehen behält der Lizenzgeber das Recht, den Schutzgegenstand oder seine Implementation unter anderen Lizenzbedingungen anzubieten
