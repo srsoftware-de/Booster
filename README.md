@@ -1,12 +1,12 @@
 # SRSoftware-Modellbahn-Booster
 
-Einfach aufgebauter Booster, der den TLE-5205 Motorbrückentreiber verwendet, um ein Modellbahn-Digitalsignal von 3.3V TTL auf bis zu 22 V / 5 A zu verstärken.
+Einfach aufgebauter Booster, der den TLE-5205 Motorbrückentreiber verwendet, um ein Modellbahn-Digitalsignal von 3.3V TTL auf bis zu 35 V / 5 A zu verstärken.
 
 Features:
 
 * Kompatibel mit verschiedenen Digitalzentralen inklusive [Raspberry Pi + SRCPD]
 * Protokoll-unabhängig
-* Spannungsfestigkeit bis zu 22 V
+* Spannungsfestigkeit bis zu 35 V
 * liefert bis zu 5 A Dauerstrom (6 A Spitze) bei verwendung eines geeigneten Gleichrichters
 * Kurzschlussfest
     * der Motorbrückentreiber hat eine Kurzschluss- und Überlasterkennung
